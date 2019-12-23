@@ -9,7 +9,7 @@ we will answer '*false*' if we think not.
 
 we call these answers as negative answers.
 
-our goal will be figure out the criminals as many as possible and it's ok if we
+our goal will be figuring out the criminals as many as possible and it's ok if we
 consider some innocents as criminals => answer '*true*' rather than omission.
 
 **precision:**
