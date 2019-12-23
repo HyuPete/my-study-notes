@@ -1,1 +1,1 @@
-# This is where I put my understandings when reading the blog https://www.theschooloflife.com/thebookoflife/.
+## This is where I put my understandings of posts I have read on the blog https://www.theschooloflife.com/thebookoflife/.
