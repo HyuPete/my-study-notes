@@ -13,7 +13,10 @@ this expression is called ***Fourier transform*** of that signal.
 > > The function f varies in time – representing a sound wave. The Fourier transform process takes f and decomposes it into its constituent sine waves, with particular frequencies and amplitudes. The Fourier transform is represented as spikes in the frequency domain, the height of the spike showing the amplitude of the wave of that frequency.
 
 we can think of image as a varying function across the 2-dimensional space of it.
-gray scale image contains pixels each of which has a value $\in \left[0, 255\right]$
+gray scale image contains pixels each of which has a value $\in \left[0, 255\right]$.
+the value represents how dark that pixel is (or also how bright that pixel is).
+we can modeling an image as a function: $I\left(x, y\right)$, where x and y are respectively the coordinate on the x (horizontal) and y (vertical) axis.
+
 
 
 [//]: # (<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">)
