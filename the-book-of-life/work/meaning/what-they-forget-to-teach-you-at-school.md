@@ -31,6 +31,17 @@ Những môn học trong thời khóa biểu, sự phân bố của chúng trong
 Sẽ là một sự ngạc nhiên đối với bất cứ một giống loài ngoài hành tình nào khi họ được biết rằng, con người, một cách vô tư và thờ ơ, tự giáo dục chính mình như thể yêu cầu chính yếu của thời trưởng thành sẽ là việc sở hữu một bộ các kỹ năng công nghệ, mà không cần quan tâm đến sự thật rằng thứ hay đưa ta vào những ngõ cụt cuộc đời nhất lại chẳng phải là bất cứ sự thiếu hụt kiến thức nào về đại số ma trận hoặc thì quá khứ hoàn thành của tiếng Pháp, mà lại là sự bất lực trong việc làm chủ thứ mà ta có thể gọi là những khía cạnh cảm xúc của cuộc sống: sự thấu hiểu chính bản thân ta, khả năng giao tiếp, cư xử với những người thân yêu, trẻ con và đồng nghiệp, mức độ tự tin vào chính bản thân mình, cách chúng ta giữ sự bình tĩnh và thể hiện sự đồng cảm.
 Chính sự thất bại trong những khía cạnh này, những thứ mà giá trị chúng mang lại vượt xa bất cứ thứ gì chúng ta có thể học được từ những ngôi trường tốt nhất, đảm bảo cho một sự phản bội cứ tiếp diễn chống lại những mong ước cao cả nhất của nhân loại cho chính mình ([**TODO**: dịch lại][0]).
 
+> When we turn over the thought of what we should have learnt, it typically feels far too late, and far too hopeless...
+> The struggles at court in early modern Europe blind us to the need to make time to learn the history of our own anger and the mastery of the sources of despair.
+
+Đến khi chúng ta lật lại suy nghĩ về những thứ chúng ta đã nên học được, nó thường cảm giác như quá trễ, và quá vô vọng.
+Mặc cho những năng lượng, tâm huyết mà chúng ta đã dành cho sự đổi mới trong rất nhiều...
+Nó như được ngầm chấp nhận rằng đơn giản đó là điều bất khả thi để tự dạy chính bản thân chúng ta những loại kỹ năng cảm xúc mà sự thiếu hụt chúng đã khiến chúng ta phải trả một cái giá quá đắt.
+Với tư cách là những người thừa kế của một triết lý lãng mạn không phù hợp, chúng ta giả định rằng chúng ta nên được chỉ dẫn trong thế giới cảm xúc bởi bản năng của chúng ta, rằng không ai có thể dạy ai đó về tình yêu hoặc sự thông thái, sự hài lòng hoặc sự tử tế, rằng những điều này phải là các thành quả rải rác trong cuộc đời, chứ không phải những khái niệm có thể gặt hái một cách hệ thống ngay từ đầu.
+Cái giá tích luỹ của sự chấp nhận này là khủng khiếp.
+Nó có nghĩa rằng mỗi thế hệ mới buộc phải va vấp lại từ đầu với những vấn đề mà đáng ra, theo lý thuyết, đã được giải quyết bởi những người thuộc thế hệ tiền bối.
+Mỗi người trẻ phải 
+
 
 
 [0]: ./what-they-forget-to-teach-you-at-school.md "TODO"
