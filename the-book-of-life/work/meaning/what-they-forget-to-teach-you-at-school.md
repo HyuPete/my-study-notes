@@ -5,18 +5,18 @@ Dịch, tóm tắt, hiểu và cảm nhận từ: https://www.theschooloflife.co
 > It may, in rare, tragic but telling instances, feel like there is simply nothing left to live for if the grades go wrong.
 
 Thế giới hiện đại vô cùng coi trọng giáo dục và dành cho nó một sự quan tâm (nghiêm túc) đặc biệt.
-Chưa bao giờ trong lịch sử chứng kiến một lượng lớn nỗ lực đầu tư cho sự phát triển trí tuệ của những thế hệ tương lai như vậy ([**TODO**: cần dẫn chứng][0]).
+Chưa bao giờ trong lịch sử nhân loại, chúng ta có thể được chứng kiến một lượng lớn nỗ lực đầu tư cho sự phát triển trí tuệ của những thế hệ tương lai như lúc này ([**TODO**: cần dẫn chứng][0]).
 Ở các nước tiên tiến trên thế giới, đa số những người trẻ chưa đủ 21 tuổi hầu như chỉ có một thứ cần quan tâm là học hành ([**TODO**: cần dẫn chứng][0]).
-Trong các hộ gia đình có nhận thức tốt, bài tập về nhà của con cái trở thành một "nghi lễ" bắt buộc ([**TODO**: dịch lại][0]).
+Trong các hộ gia đình có nhận thức tốt, bài tập về nhà của con cái trở thành một hoạt động giáo dục, một "nghi lễ," bắt buộc ([**TODO**: dịch lại][0]).
 Một đội ngũ những giáo viên, giảng viên, nhà giáo dục, trường đại học, cao đẳng và các quan chức trong ngành giáo dục được xây dựng để đưa một số lượng khổng lồ những đứa trẻ, người trẻ đi qua hết bậc thang này đến bậc thang khác của con đường học vấn.
-Những chính trị gia ở mọi phe phái thì chạy đua nhau để chứng tỏ sự nhiệt huyết của mình với sự nghiệp giáo dục ([**TODO**: cần dẫn chứng][0]).
-Những kỳ thi bắt buộc quan trọng thì có một khả năng to lớn quyết định cuộc đời của mỗi con người; nỗi sợ hãi mà chúng mang lại có thể khiến người ta không dám mở mắt dậy đón ngày mới hàng thập kỷ sau đó ([**TODO**: dịch lại][0]).
-Có lẽ người ta, trong những trường hợp hiếm hoi, bi thảm mà đáng thương, sẽ cảm như thấy chẳng còn gì đáng sống nếu những điểm số từ những kỳ thi đó của họ không như những gì mà xã hội mong muốn ([**TODO**: dịch lại][0]).
+Những chính trị gia ở mọi phe phái chạy đua nhau chứng tỏ tâm huyết của mình với sự nghiệp giáo dục ([**TODO**: cần dẫn chứng][0]).
+Những kỳ thi bắt buộc quan trọng thì có một khả năng to lớn quyết định cuộc đời của mỗi con người; nỗi sợ hãi mà chúng mang lại có thể được ví như nỗi sợ những vụ khủng bố vào ban ngày, đeo bám người ta hàng thập kỷ sau đó, khiến người ta sợ đến già ([**TODO**: dịch lại][0]).
+Có lẽ một số người, những trường hợp hiếm hoi, bi thảm mà đáng thương, sẽ cảm như thấy chẳng còn gì đáng sống nếu những điểm số từ những kỳ thi đó của họ không như những gì mà xã hội mong muốn ([**TODO**: dịch lại][0]).
 
 > And yet despite all this, it is very rare to find a thoughtful adult...
 > Why – in short – did no one ever tell us?
 
-Và mặc cho tất cả những điều này, sẽ vô cùng khó khăn để tìm ra một người trưởng thành chững chạc - độ tuổi trung niên hoặc sớm hơn - vào những thời điểm khủng hoảng và trắc trở, không nhìn lại một cách khó hiểu và tức giận khoảng thời gian đi học của họ và tự hỏi tại sao, trong tất cả những bài giảng học thuật, nghiên cứu, những sự rèn luyện kỷ luật, những ngày tháng tận tâm học tập nhất và những khủng hoảng nơi giảng đường, có quá nhiều kiến thức đã bị bỏ qua trong im lặng, bị cố tình lãng tránh ([**TODO**: dịch lại, chưa hiểu][0]).
+Và mặc cho tất cả những điều này, sẽ vô cùng khó khăn để tìm ra một người trưởng thành chững chạc - ở độ tuổi trung niên hoặc sớm hơn - vào những thời điểm khủng hoảng và trắc trở của bản thân, không nhìn lại một cách khó hiểu và tức giận khoảng thời gian đi học của họ và tự hỏi tại sao, trong tất cả những bài giảng học thuật, nghiên cứu, những sự rèn luyện kỷ luật, quy tắc, những ngày tháng tận tâm học tập nhất và những khủng hoảng nơi giảng đường, có quá nhiều kiến thức đã bị bỏ qua trong im lặng, bị cố tình lãng tránh ([**TODO**: dịch lại, chưa hiểu][0]).
 Làm sao mà, trong những năm tháng mài đũng quần trên ghế nhà trường đấy, những khái niệm và kiến thức cơ bản sẽ (giờ mới nhận ra) rất quan trọng cho một cuộc sống tương đối ổn định, đàng hoàng, có thể một cách nào đó bị lờ đi hoàn toàn ([**TODO**: dịch lại][0]).
 Làm thế nào mà quá nhiều thời gian lại được dành cho giải tích, sự xói mòn của lớp băng trên, chính trị các lãnh thổ của vương quốc Burgundia trong những năm 1400, thơ ca của Emily Dickinson và phương trình lượng giác, nhưng lại quá ít thời gian dành cho một loạt những vấn đề, thử thách, khó khăn mà sẽ vẽ ra cho họ khi đó biết những chông gai trên con đường trưởng thành phía trước.
 Tại sao - tóm lại - không ai nhắc cho họ, cho chúng ta biết?
@@ -34,7 +34,7 @@ Chính sự thất bại trong những khía cạnh này, những thứ mà giá
 > When we turn over the thought of what we should have learnt, it typically feels far too late, and far too hopeless...
 > The struggles at court in early modern Europe blind us to the need to make time to learn the history of our own anger and the mastery of the sources of despair.
 
-Đến khi chúng ta lật lại suy nghĩ về những thứ chúng ta đã nên học được, nó thường cảm giác như quá trễ, và quá vô vọng.
+Đến khi chúng ta lật lại suy nghĩ về những thứ chúng ta đã nên học được, nó thường cảm giác như đã quá trễ, và quá vô vọng.
 Mặc cho những năng lượng, tâm huyết mà chúng ta đã dành cho sự đổi mới trong rất nhiều...
 Nó như được ngầm chấp nhận rằng đơn giản đó là điều bất khả thi để tự dạy chính bản thân chúng ta những loại kỹ năng cảm xúc mà sự thiếu hụt chúng đã khiến chúng ta phải trả một cái giá quá đắt.
 Với tư cách là những người thừa kế của một triết lý lãng mạn không phù hợp, chúng ta giả định rằng chúng ta nên được chỉ dẫn trong thế giới cảm xúc bởi bản năng của chúng ta, rằng không ai có thể dạy ai đó về tình yêu hoặc sự thông thái, sự hài lòng hoặc sự tử tế, rằng những điều này phải là các thành quả rải rác trong cuộc đời, chứ không phải những khái niệm có thể gặt hái một cách hệ thống ngay từ đầu.
