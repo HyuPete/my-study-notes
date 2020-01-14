@@ -17,15 +17,15 @@ Có lẽ một số người, những trường hợp hiếm hoi, bi thảm mà 
 > Why – in short – did no one ever tell us?
 
 Và mặc cho tất cả những điều này, sẽ vô cùng khó khăn để tìm ra một người trưởng thành chững chạc - ở độ tuổi trung niên hoặc sớm hơn - vào những thời điểm khủng hoảng và trắc trở của bản thân, không nhìn lại một cách khó hiểu và tức giận khoảng thời gian đi học của họ và tự hỏi tại sao, trong tất cả những bài giảng học thuật, nghiên cứu, những sự rèn luyện kỷ luật, quy tắc, những ngày tháng tận tâm học tập nhất và những khủng hoảng nơi giảng đường, có quá nhiều kiến thức đã bị bỏ qua trong im lặng, bị cố tình lãng tránh ([**TODO**: dịch lại, chưa hiểu][0]).
-Làm sao mà, trong những năm tháng mài đũng quần trên ghế nhà trường đấy, những khái niệm và kiến thức cơ bản sẽ (giờ mới nhận ra) rất quan trọng cho một cuộc sống tương đối ổn định, đàng hoàng, có thể một cách nào đó bị lờ đi hoàn toàn ([**TODO**: dịch lại][0]).
-Làm thế nào mà quá nhiều thời gian lại được dành cho giải tích, sự xói mòn của lớp băng trên, chính trị các lãnh thổ của vương quốc Burgundia trong những năm 1400, thơ ca của Emily Dickinson và phương trình lượng giác, nhưng lại quá ít thời gian dành cho một loạt những vấn đề, thử thách, khó khăn mà sẽ vẽ ra cho họ khi đó biết những chông gai trên con đường trưởng thành phía trước.
+Làm sao mà, trong những năm tháng mài đũng quần trên ghế nhà trường đấy, những khái niệm và kiến thức cơ bản sẽ (giờ mới nhận ra) rất quan trọng cho một cuộc sống tương đối ổn định, đàng hoàng, có thể một cách nào đó bị lờ đi hoàn toàn ([**TODO**: dịch lại][0])?
+Làm thế nào mà quá nhiều thời gian lại được dành cho giải tích, sự xói mòn của lớp băng trên, chính trị các lãnh thổ của vương quốc Burgundia trong những năm 1400, thơ ca của Emily Dickinson và phương trình lượng giác, nhưng lại quá ít thời gian dành cho một loạt những vấn đề, thử thách sẽ vẽ ra cho họ khi đó biết con đường trưởng thành đầy chông gai phía trước?
 Tại sao - tóm lại - không ai nhắc cho họ, cho chúng ta biết?
 
 > There are, at present, few places for this thought to go...
 > It is failures in these zones that, far more than anything we might pick up at the best schools and universities, ensures the repeated betrayal of humanity’s best hopes for itself.
 
 Có quá ít nơi ở hiện tại để cho suy nghĩ này được thảo luận.
-Cuộc tranh luận luôn trở nên quá tập trung vào vấn đề làm thế nào tốt nhất để cung cấp một nền giáo dục cho một đứa trẻ (cứ như là làm thế nào tốt nhất để cung cấp một dịch vụ mà khách hàng cảm thấy bản thân được giáo dục còn người cung cấp thì có lời nhất); chứ không phải là cô/cậu bé đó nên được dạy cái gì và nên học được cái gì trong nền giáo dục đó.
+Cuộc tranh luận luôn trở nên quá tập trung vào vấn đề làm thế nào tốt nhất để cung cấp một nền giáo dục cho một đứa trẻ (cứ như là làm thế nào tốt nhất để cung cấp một dịch vụ mà khách hàng cảm thấy bản thân được giáo dục còn người cung cấp thì có lợi nhất); chứ không phải là cô/cậu bé đó nên được dạy cái gì và nên học được cái gì trong nền giáo dục đó.
 Chương trình học ở trường không được xây dựng để đáp ứng cho đứa trẻ khả năng giải quyết những tình huống tiến thoái lưỡng nan nó sẽ phải gặp trong đời sống trưởng thành, dù cho những người trưởng thành thiết kế chương trình đó chắc hẳn cũng đã cảm nhận, biết được rất rõ những gì họ đáng lẽ nên được chuẩn bị khi cần phải giải quyết các rắc rối của chính họ trong cuộc sống.
 Những môn học trong thời khóa biểu, sự phân bố của chúng trong cả tuần học, chẳng hề phản ánh thật sự những gì diễn ra trong tương lai sẽ khiến cuộc sống trở thành một thử thách gian nan đến vậy; và lẽ ra, chúng ta đã phải được nghe giảng vô số lần từ thầy cô về cái cách tiếp cận những tình huống khó xử trong các mối quan hệ, về những nốt trầm buồn trên con đường sự nghiệp chúng ta sau này, sự căng thẳng trong gia đình và nỗi khiếp sợ khi già yếu đi,...
 Sẽ là một sự ngạc nhiên đối với bất cứ một giống loài ngoài hành tình nào khi họ được biết rằng, con người, một cách vô tư và thờ ơ, tự giáo dục chính mình như thể yêu cầu chính yếu của thời trưởng thành sẽ là việc sở hữu một bộ các kỹ năng công nghệ, mà không cần quan tâm đến sự thật rằng thứ hay đưa ta vào những ngõ cụt cuộc đời nhất lại chẳng phải là bất cứ sự thiếu hụt kiến thức nào về đại số ma trận hoặc thì quá khứ hoàn thành của tiếng Pháp, mà lại là sự bất lực trong việc làm chủ thứ mà ta có thể gọi là những khía cạnh cảm xúc của cuộc sống: sự thấu hiểu chính bản thân ta, khả năng giao tiếp, cư xử với những người thân yêu, trẻ con và đồng nghiệp, mức độ tự tin vào chính bản thân mình, cách chúng ta giữ sự bình tĩnh và thể hiện sự đồng cảm.
@@ -34,13 +34,13 @@ Chính sự thất bại trong những khía cạnh này, những thứ mà giá
 > When we turn over the thought of what we should have learnt, it typically feels far too late, and far too hopeless...
 > The struggles at court in early modern Europe blind us to the need to make time to learn the history of our own anger and the mastery of the sources of despair.
 
-Đến khi chúng ta lật lại suy nghĩ về những thứ chúng ta đã nên học được, nó thường cảm giác như đã quá trễ, và quá vô vọng.
-Mặc cho những năng lượng, tâm huyết mà chúng ta đã dành cho sự đổi mới trong rất nhiều...
-Nó như được ngầm chấp nhận rằng đơn giản đó là điều bất khả thi để tự dạy chính bản thân chúng ta những loại kỹ năng cảm xúc mà sự thiếu hụt chúng đã khiến chúng ta phải trả một cái giá quá đắt.
-Với tư cách là những người thừa kế của một triết lý lãng mạn không phù hợp, chúng ta giả định rằng chúng ta nên được chỉ dẫn trong thế giới cảm xúc bởi bản năng của chúng ta, rằng không ai có thể dạy ai đó về tình yêu hoặc sự thông thái, sự hài lòng hoặc sự tử tế, rằng những điều này phải là các thành quả rải rác trong cuộc đời, chứ không phải những khái niệm có thể gặt hái một cách hệ thống ngay từ đầu.
+Đến khi chúng ta lật lại cái suy nghĩ về những thứ chúng ta đã nên học được, nó thường đem lại một cảm giác đã quá trễ, và quá vô vọng.
+Mặc cho những năng lượng, nhiệt huyết mà chúng ta đã dành cho việc đổi mới trong rất nhiều lĩnh vực kinh tế, một sự chần chừ, chậm chạp lại được dành cho việc cải tiến giáo dục.
+Nó như được ngầm chấp nhận rằng có lẽ đơn giản, đó là điều bất khả thi để tự dạy chính bản thân chúng ta những loại kỹ năng cảm xúc mà sự thiếu hụt chúng đã khiến chúng ta phải trả một cái giá quá đắt.
+Với tư cách là những người thừa kế của một triết lý Lãng mạn không còn phù hợp, chúng ta tự thừa nhận rằng chúng ta nên được dẫn đường trong thế giới cảm xúc bởi bản năng của chúng ta, bởi một trí tuệ cảm xúc chưa được rèn luyện, rằng không ai có thể dạy ai đó về tình yêu hoặc sự thông thái, về sự hài lòng với hiện tại hoặc sự tử tế, rằng những điều này phải là các thành quả rải rác trong cuộc đời, chứ chẳng phải là những bài học có thể gặt hái ngay từ lúc lọt lòng.
 Cái giá tích luỹ của sự chấp nhận này là khủng khiếp.
-Nó có nghĩa rằng mỗi thế hệ mới buộc phải va vấp lại từ đầu với những vấn đề mà đáng ra, theo lý thuyết, đã được giải quyết bởi những người thuộc thế hệ tiền bối.
-Mỗi người trẻ phải 
+Nó có nghĩa rằng mỗi thế hệ mới buộc phải va vấp lại từ đầu với những vấn đề mà đáng ra, theo lý thuyết, đã được giải quyết trong suy nghĩ của thế hệ tiền bối.
+Mỗi người trẻ bị buộc phải tự khám phá lại lần nữa, trong  
 
 
 
