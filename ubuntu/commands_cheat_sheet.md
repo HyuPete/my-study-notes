@@ -3,12 +3,17 @@
 grep " install " /var/log/apt/history.log
 ```
 
-## Show disk size usage
+## Show disk usage
 ```bash
 du -hs /path/to/directory
 du -hs /path/to/directory/*
 ```
 https://askubuntu.com/questions/1224/how-do-i-determine-the-total-size-of-a-directory-folder-from-the-command-line
+
+## Show disk free
+```bash
+df -h [--total]
+```
 
 ## Show running processes
 ```bash
